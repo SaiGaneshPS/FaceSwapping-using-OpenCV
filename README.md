@@ -35,10 +35,13 @@ The function follows the same steps as mentioned bellow :
   ## Sample Input :
  
  Input Number 1 :
+ 
  ![image](https://user-images.githubusercontent.com/60283852/165671442-cbcaad0a-6163-43ff-94b3-afa402b30428.png)
 
  Input Number 2 :
+ 
  ![image](https://user-images.githubusercontent.com/60283852/165671479-150ad86b-f52f-4b72-a7fd-e05fb4bde9da.png)
 
  Final image :
+ 
  ![image](https://user-images.githubusercontent.com/60283852/165671507-9697276e-b204-4d8f-9fc1-8c252affaa47.png)
