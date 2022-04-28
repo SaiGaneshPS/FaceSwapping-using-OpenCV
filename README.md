@@ -32,11 +32,12 @@ The function follows the same steps as mentioned bellow :
 
   To solve the discolouration, the edges are smoothed to make the masks look the same, this is done using the seamlessClone function of the OpenCV. The attribute         MIXED_CLONE gives better output in some cases, but most of the times NORMAL_CLONE gives a valid output.
   
-  ## Sample Input :
+
+## Sample Input :
  
  Input Number 1 :
  
- ![image](https://user-images.githubusercontent.com/60283852/165671442-cbcaad0a-6163-43ff-94b3-afa402b30428.png)
+ ![image](https://user-images.githubusercontent.com/60283852/165671442-cbcaad0a-6163-43ff-94b3-afa402b30428.png?style=centerme)
 
  Input Number 2 :
  
