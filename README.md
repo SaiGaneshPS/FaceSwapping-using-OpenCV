@@ -36,9 +36,10 @@ The function follows the same steps as mentioned bellow :
 ## Sample Input :
  
  Input Number 1 :
+ <center>
+ ![image](https://user-images.githubusercontent.com/60283852/165671442-cbcaad0a-6163-43ff-94b3-afa402b30428.png)
+ </center>
  
- ![image](https://user-images.githubusercontent.com/60283852/165671442-cbcaad0a-6163-43ff-94b3-afa402b30428.png?style=centerme)
-
  Input Number 2 :
  
  ![image](https://user-images.githubusercontent.com/60283852/165671479-150ad86b-f52f-4b72-a7fd-e05fb4bde9da.png)
