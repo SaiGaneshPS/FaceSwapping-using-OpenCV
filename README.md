@@ -1,5 +1,16 @@
 # FaceSwapping-using-OpenCV
 
+<style>
+img
+{
+    display:block;
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style>
+
 The following program is used to take a face from one image and apply it as a mask over another image. Initially all the steps done to swap the faces are shown. In the end, a function is built that can be used to swap faces when the images are given as input. 
 
 The function follows the same steps as mentioned bellow :
@@ -36,9 +47,8 @@ The function follows the same steps as mentioned bellow :
 ## Sample Input :
  
  Input Number 1 :
- <center>
+
  ![image](https://user-images.githubusercontent.com/60283852/165671442-cbcaad0a-6163-43ff-94b3-afa402b30428.png)
- </center>
  
  Input Number 2 :
  
